@@ -1,2 +1,2 @@
 # MCMOD
-First Mc Mod
+I'm Learning Java By Creating A Minecraft Mod
